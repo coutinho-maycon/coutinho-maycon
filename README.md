@@ -12,7 +12,7 @@
 
 :house_with_garden: Sou de Atibaia-SP.
 
-:books: Atualmente estou aprendendo HTML, CSS, JavaScript e ReactJS.
+:books: Atualmente estou aprendendo HTML, CSS, JavaScript e Vue.js.
 
 :outbox_tray: Objetivos para 2021: Criar um novo projeto e começar a trabalhar na área de desenvolvimento de software.
 
