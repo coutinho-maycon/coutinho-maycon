@@ -36,8 +36,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=coutinho-maycon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coutinho-maycon&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coutinho-maycon&layout=compact)](https://github.com/coutinho-maycon/github-readme-stats)
-
-![Maycon1sGitHub stats](https://github-readme-stats.vercel.app/api?username=coutinho-maycon&show_icons=true&theme=radical)
-
