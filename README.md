@@ -14,7 +14,7 @@
 
 :books: Atualmente estou aprendendo HTML, CSS, JavaScript e Vue.js.
 
-:outbox_tray: Objetivos para 2021: Criar um novo projeto e começar a trabalhar na área de desenvolvimento de software.
+:outbox_tray: Objetivos para 2022: Criar um novo projeto e começar a trabalhar na área de desenvolvimento de software.
 
  
 
